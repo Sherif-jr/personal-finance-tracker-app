@@ -29,6 +29,29 @@ This project is a **Personal Finance Tracker App** built using React Native with
 
 1. **Clone the Repository**:
    ```bash
-   git clone [repository-url]
-   cd finance-tracker-app
+   git clone https://github.com/Sherif-jr/personal-finance-tracker-app.git
+   cd personal-finance-tracker-app
    ```
+2. **Install Dependencies**
+
+```bash
+yarn
+```
+
+Or
+
+```bash
+yarn install
+```
+
+3. **Run on Expo Go**
+
+```bash
+yarn start
+```
+
+Or with tunnel
+
+```bash
+npx expo start --tunnel
+```
